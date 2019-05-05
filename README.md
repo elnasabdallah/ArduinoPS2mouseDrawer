@@ -4,7 +4,7 @@ This project will Hack a PS/2 Mouse.The Mouse movement data will be used to reco
 
 
 #Team Memebers
-1. Muhammad Nasir Abdullahi.
+1.Muhammad Nasir Abdullahi.
 
 2.Arlene Flavie Ngami Seuleu.
 
