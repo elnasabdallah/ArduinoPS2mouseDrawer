@@ -1,6 +1,6 @@
 # ArduinoPS2mouseDrawer
 
-This project will Hack a PS/2 Mouse.The Mouse movement data will be used to record the  picture of the monement, the mouse buttons will be used to start/stop/pause measurement.The recorded picture  will be Printed  onto an arduino display shield.
+This project will Hack a PS/2 Mouse.The Mouse movement data will be used to record the  picture of the movement, the mouse buttons will be used to start/stop/pause measurement.The recorded picture  will be Printed  onto an arduino display shield.
 
 
 #Team Memebers
