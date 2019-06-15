@@ -16,3 +16,5 @@ This project will Hack a PS/2 Mouse.The Mouse movement data will be used to reco
 #Components:
 
 #Arduino UNO, #PS2Mouse, DIN Female Connector Plug for Ps2 mouse, two 10kohms resistors, 3.5 Inch TFT Color Display Screen Module 320 X 480. Connecting wires, and a Breadbord
+
+![Schematic2_bb](Schematic2_bb.png)
